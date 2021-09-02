@@ -13,3 +13,4 @@ C:\Users\rickd\source\repos\BVCodingChallenge\obj\Debug\netcoreapp3.1\BVCodingCh
 C:\Users\rickd\source\repos\BVCodingChallenge\obj\Debug\netcoreapp3.1\BVCodingChallenge.dll
 C:\Users\rickd\source\repos\BVCodingChallenge\obj\Debug\netcoreapp3.1\BVCodingChallenge.pdb
 C:\Users\rickd\source\repos\BVCodingChallenge\obj\Debug\netcoreapp3.1\BVCodingChallenge.genruntimeconfig.cache
+C:\Users\rickd\source\repos\BVCodingChallenge\obj\Debug\netcoreapp3.1\BVCodingChallenge.csproj.AssemblyReference.cache
