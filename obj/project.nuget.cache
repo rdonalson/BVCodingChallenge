@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EALnnEUcPiWQIIyVfd1un1bGfE4m74ZoYMTWFgpbq2UdOdzjmCh5saHMTXzF2vmbK+C1lxwAg+asYRaK0HnJDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rickd\\source\\repos\\BVCodingChallenge\\BVCodingChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rickd\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

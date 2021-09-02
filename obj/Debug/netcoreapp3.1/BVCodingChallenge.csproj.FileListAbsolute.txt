@@ -1,0 +1,15 @@
+C:\Users\rickd\source\repos\BVCodingChallenge\bin\Debug\netcoreapp3.1\BVCodingChallenge.exe
+C:\Users\rickd\source\repos\BVCodingChallenge\bin\Debug\netcoreapp3.1\BVCodingChallenge.deps.json
+C:\Users\rickd\source\repos\BVCodingChallenge\bin\Debug\netcoreapp3.1\BVCodingChallenge.runtimeconfig.json
+C:\Users\rickd\source\repos\BVCodingChallenge\bin\Debug\netcoreapp3.1\BVCodingChallenge.runtimeconfig.dev.json
+C:\Users\rickd\source\repos\BVCodingChallenge\bin\Debug\netcoreapp3.1\BVCodingChallenge.dll
+C:\Users\rickd\source\repos\BVCodingChallenge\bin\Debug\netcoreapp3.1\BVCodingChallenge.pdb
+C:\Users\rickd\source\repos\BVCodingChallenge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rickd\source\repos\BVCodingChallenge\obj\Debug\netcoreapp3.1\BVCodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rickd\source\repos\BVCodingChallenge\obj\Debug\netcoreapp3.1\BVCodingChallenge.AssemblyInfoInputs.cache
+C:\Users\rickd\source\repos\BVCodingChallenge\obj\Debug\netcoreapp3.1\BVCodingChallenge.AssemblyInfo.cs
+C:\Users\rickd\source\repos\BVCodingChallenge\obj\Debug\netcoreapp3.1\BVCodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\rickd\source\repos\BVCodingChallenge\obj\Debug\netcoreapp3.1\BVCodingChallenge.csproj.CopyComplete
+C:\Users\rickd\source\repos\BVCodingChallenge\obj\Debug\netcoreapp3.1\BVCodingChallenge.dll
+C:\Users\rickd\source\repos\BVCodingChallenge\obj\Debug\netcoreapp3.1\BVCodingChallenge.pdb
+C:\Users\rickd\source\repos\BVCodingChallenge\obj\Debug\netcoreapp3.1\BVCodingChallenge.genruntimeconfig.cache
